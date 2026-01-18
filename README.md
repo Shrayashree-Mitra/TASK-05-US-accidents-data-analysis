@@ -2,10 +2,10 @@
 Analysis and visualization of a large scale US Accidents dataset involving data cleaning, column selection, feature preparation, and insight generation using Python and Power BI.
 
 ### CLEANED DATASET
-due to file size restrictions,the cleaned dataset can be downloaded here:
+due to file size restrictions,the cleaned dataset can be downloaded here: https://1drv.ms/x/c/6DD843B2C04FA70A/IQCW0siKPodfQKpyUaFmSM0uAVqUx1v6URuAM6GaoP1uLW8?e=aqenVO
 ### POWER BI DASHBOARD
-the'.pbix' file is available here:
-
+the'.pbix' file is available here: https://1drv.ms/u/c/6DD843B2C04FA70A/IQCd2J6B5Va7TZ_-gqR4_ldLASA7VRiVGSNQivxyc4yeX7w?e=91DLhU
+Note: Large files are hosted on OneDrive due to GitHub file size limits.
 
 # US Accidents Data Analysis
 
