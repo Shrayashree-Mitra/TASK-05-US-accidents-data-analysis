@@ -1,5 +1,12 @@
 # TASK-05-US-accidents-data-analysis
 Analysis and visualization of a large scale US Accidents dataset involving data cleaning, column selection, feature preparation, and insight generation using Python and Power BI.
+
+### CLEANED DATASET
+due to file size restrictions,the cleaned dataset can be downloaded here:
+### POWER BI DASHBOARD
+the'.pbix' file is available here:
+
+
 # US Accidents Data Analysis
 
 This repository contains a complete data analysis project performed on the US Accidents dataset.  
