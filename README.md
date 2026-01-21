@@ -14,17 +14,17 @@ The project focuses on data cleaning, column selection, feature preparation, and
 
 The objective is to transform a large real-world dataset into an analysis-ready format and extract meaningful insights related to accident severity, weather conditions, time patterns, and traffic infrastructure.
 
-## Dataset Overview
+## Overview
 
-The dataset used in this project is the *US Accidents Dataset*, which contains records of traffic accidents across the United States.  
+The dataset used in this project is the *US Accidents Dataset*, which contains records of traffic accidents across the United States.The goal is to uncover accident hotspots and understand contributing factors  that influence accident severity and frequency.
 Due to the large size of the dataset, efficient data handling techniques were applied.
 
 ## Tools & Technologies Used
 
-- Python (Pandas, NumPy)
+- Python (Pandas, NumPy) - for data cleaning and manipulation
 - Jupyter Notebook / VS Code
-- Power BI
-- GitHub
+- Power BI - data visualization 
+  
 
 ## Project Tasks Overview
 
